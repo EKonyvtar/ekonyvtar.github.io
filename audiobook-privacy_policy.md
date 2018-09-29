@@ -15,7 +15,8 @@ camera sensor data, and sensitive device data).
 App does not required any special permissions other than standard network and storage management permissions
 to stream, download and store audiobook files.
 
-App Uses Adomb Third Party Tool to display advertisements, which can collect some non sensitive device details.
+App Uses Adomb Third Party Tool to display advertisements, which can collect some non-sensitive and personal
+information.
 
 App Uses Firebase Third Party Tool to collect functionality related data only.
 
