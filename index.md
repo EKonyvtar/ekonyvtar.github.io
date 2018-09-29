@@ -1,6 +1,5 @@
+## E-könyvtár - A Magyar EKönyv és Hangoskönyv
 ![Audiobook Player](./images/audiobook.png)
-
-## E-K0nyvtár Project
 This project is a mobile first initiative to preserve Hungarian language
 and cultural heritage for future generations. With its mobile first approach,
 it aims to create free Hungarian ebook reader, audiobook listener and catalog
