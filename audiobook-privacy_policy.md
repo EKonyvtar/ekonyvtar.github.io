@@ -1,4 +1,3 @@
-# Hangoskönyvtár - Magyar Hangoskönyv lejátszó
 ## Privacy Policy
 
 ### General
