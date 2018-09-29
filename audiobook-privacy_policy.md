@@ -15,11 +15,10 @@ camera sensor data, and sensitive device data).
 App does not required any special permissions other than standard network and storage management permissions
 to stream, download and store audiobook files.
 
-App Uses Adomb Third Party Tool to display advertisements, which can collect some non-sensitive and personal
-information.
-
-App Uses Firebase Third Party Tool to collect functionality related data only.
-
+App Uses *Firebase* Third Party Tool to collect functionality related data only and *Adomb* Third Party Tool
+to display advertisements. It uses the Android advertisement identifier which is not associated with any
+personally-identifiable information or other identifiers. The advertising identifier is only be used for
+advertising and user analytics.
 
 ### Changes to the Policy
 If the Policy changes, the modification date below will be updated.
