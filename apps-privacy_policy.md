@@ -16,7 +16,7 @@ to stream, download and store media files.
 App Uses *Google Firebase* Third Party Tool to collect functionality related data only and *Google Admob* Third Party Tool
 to display advertisements. It uses the standard Android advertisement identifier which is not associated with any
 personally-identifiable information or other identifiers. The advertising identifier is only be used for
-advertising and usage analytics.
+advertising and usage analytics of the application.
 
 ### Changes to the Policy
 If the Policy changes, the modification date below will be updated.
