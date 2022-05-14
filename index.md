@@ -17,4 +17,5 @@ National Library of Hungary (MEK).
 
 ### Contact and Support
 
-If you have any questions, feel free to reach out to dev [AT] murati.hu or check to our [privacy policy here](./audiobook-privacy_policy.md)
+If you have any questions, feel free to reach out to dev [AT] murati.hu
+or check to our [privacy policy here](./audiobook-privacy_policy.md)
